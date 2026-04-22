@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Shreyash Bonde! 👋
 
-<!--
-**shreyash-bonde-275/shreyash-bonde-275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Engineering student based in Maharashtra, currently diving deep into the worlds of Object-Oriented Programming and Full-Stack Development. When I'm not debugging C++ code, you'll probably find me at the gym or watching movies.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+- 🛠️ Developed a **Bus Reservation System** using C++.
+- 🌐 Building modern web interfaces with **Node.js** and **JavaScript**.
+- 📘 Mastering **OOP concepts**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+- **Languages:** C++, JavaScript (Node.js), HTML5, CSS3
+- **Tools & OS:** Windows 11, Git, GitHub, VS Code
+- **Interests:** AI Engineering, Cyber Security 
+
+### ⚡ Fun Facts:
+- 🏏 Huge cricket fan (Team India all the way!).
+- 🏋️‍♂️ Firm believer in the 6-day gym split.
+- 🎬 I enjoy Bollywood films, especially those based on true events.
+
+---
+
+**Let's Connect:**
+[LinkedIn](www.linkedin.com/in/shreyash-bonde-2b6864303)
