@@ -10,11 +10,10 @@ I'm a first-year Engineering student based in Maharashtra, currently diving deep
 ### 💻 Tech Stack:
 - **Languages:** C++, JavaScript (Node.js), HTML5, CSS3
 - **Tools & OS:** Windows 11, Git, GitHub, VS Code
-- **Interests:** AI Engineering, Cyber Security 
+- **Interests:** AI Engineering
 
 ### ⚡ Fun Facts:
 - 🏏 Huge cricket fan (Team India all the way!).
-- 🏋️‍♂️ Firm believer in the 6-day gym split.
 - 🎬 I enjoy Bollywood films, especially those based on true events.
 
 ---
