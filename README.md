@@ -1,6 +1,6 @@
 # Hi there, I'm Shreyash Bonde! 👋
 
-I'm a first-year Engineering student based in Maharashtra, currently diving deep into the worlds of Object-Oriented Programming and Full-Stack Development. When I'm not debugging C++ code, you'll probably find me at the gym or watching movies.
+I'm a second-year Engineering student based in Navi Mumbai,Maharashtra, currently diving deep into the worlds of Object-Oriented Programming and Full-Stack Development. When I'm not debugging C++ code, you'll probably find me at the gym or watching movies.
 
 ### 🚀 What I'm working on:
 - 🛠️ Developed a **Bus Reservation System** using C++.
