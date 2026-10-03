@@ -10,12 +10,6 @@ I'm a second-year Engineering student based in Navi Mumbai,Maharashtra, currentl
 ### 💻 Tech Stack:
 - **Languages:** C++, JavaScript (Node.js), HTML5, CSS3
 - **Tools & OS:** Windows 11, Git, GitHub, VS Code
-- **Interests:** AI Engineering
-
-### ⚡ Fun Facts:
-- 🏏 Huge cricket fan (Team India all the way!).
-- 🎬 I enjoy Bollywood films, especially those based on true events.
-
 ---
 
 **Let's Connect:**
